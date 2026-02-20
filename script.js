@@ -1,3 +1,10 @@
+/*
+Name: Isaac Euceda
+Date: February 20th, 2026
+CSC 372-01
+This page allows users to add items to the favorites list and it calculates the total price at the bottom of the html page.
+Users can also unselect items and it updates the total price.
+*/
 document.addEventListener("DOMContentLoaded", function () {
     Favorites();
 });
